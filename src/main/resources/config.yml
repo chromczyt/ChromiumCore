@@ -1,0 +1,10 @@
+debug-mode: false
+# just a debug mod
+# turn this on true if you know what are you doing
+# if not leave it on default (false)
+welcome-message: "Vitej na serveru kokot"
+max-players-allowed: 10
+enable-features:
+  - "feature1"
+  - "feature2"
+  - "feature3"

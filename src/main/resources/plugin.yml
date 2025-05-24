@@ -1,0 +1,6 @@
+name: ChromiumCore
+version: '1.0-SNAPSHOT'
+main: me.chromisek.chromiumCore.ChromiumCore
+api-version: '1.21'
+authors: [ Chromisek ]
+description: Core plugin pro Chromium
