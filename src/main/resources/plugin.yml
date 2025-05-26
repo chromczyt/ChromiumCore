@@ -4,3 +4,8 @@ main: me.chromisek.chromiumCore.ChromiumCore
 api-version: '1.21'
 authors: [ Chromisek ]
 description: Core plugin pro Chromium
+commands:
+  chromium:
+    description: Main command for Chromium Framework
+    usage: /<command> [gui|reload|version|help]
+    aliases: [chromiumcore]
